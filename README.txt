@@ -1,5 +1,18 @@
 Turtle and Teleporters
 
+- The project has imported the own module turtle which is used as a drawing tool.
+
+- I have created a two player game. In which a point to point travel.
+
+- Functions are added for reuseability of code.
+
+- The code automatically generate random number for die-roll.
+
+
+
+
+User Manual:
+
 - A two player(red,blue) turtle game without any user action required.
 
 - The turtles are initially at the "start".
