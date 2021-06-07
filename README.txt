@@ -1,6 +1,8 @@
 Turtle and Teleporters
 
-- The project has imported the own module turtle which is used as a drawing tool.
+- The project has imported the own python module turtle which is used as a drawing tool.
+
+- It is a 2D two player game
 
 - I have created a two player game. In which a point to point travel.
 
